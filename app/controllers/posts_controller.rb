@@ -1,1 +1,3 @@
-class PostsController < ActiveRecord::Base
+class PostsController < ActionController::Base
+  
+end
